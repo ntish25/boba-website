@@ -1,9 +1,16 @@
 img {
-    width: 200px
+    width: 200px;
+    border-radius: 25%;
 }
 body{
     text-align: center;
-    font-family: 'Arial';
     background: cornsilk;
     color: teal;
+}
+h1{
+    font-family: 'Host Grotesk', sans-serif;
+    font-size: 64px;
+}
+p{
+    font-family: 'Inter', sans-serif;
 }
