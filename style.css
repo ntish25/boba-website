@@ -1,6 +1,6 @@
 img {
     width: 200px;
-    border-radius: 25%;
+    border-radius: 10%;
 }
 body{
     text-align: center;
@@ -13,5 +13,4 @@ h1{
 }
 p{
     font-family: 'Inter', sans-serif;
-    letter-spacing: -5%;
 }
